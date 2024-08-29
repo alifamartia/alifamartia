@@ -10,11 +10,14 @@
 ### - 🔭 I’m currently working on Assignments
 ### - 🌱 I’m currently learning Python
 ### - 🤔 I’m looking for help with learning Python
-### - 📫 How to reach me: VVV
 ### - 💬 Ask me about Game of Thrones
+### - 📫 How to reach me: VVV
 ### [My Instagram](https://www.instagram.com/alifamartia) 
 ### [My LinkedIn](https://www.linkedin.com/in/alif-amartia) 
-
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 <!--
 **alifamartia/alifamartia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
