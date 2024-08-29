@@ -1,4 +1,8 @@
-## Hi there 👋
+# **MY REPOSITORY**
+## Latihan edit repository
+### - 😄 Pronouns: ...
+### - ⚡ Fun fact: ...
+### - 🔭 I’m currently working on ...
 
 <!--
 **alifamartia/alifamartia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
