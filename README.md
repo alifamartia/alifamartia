@@ -14,10 +14,10 @@
 ### - 📫 How to reach me: VVV
 ### [My Instagram](https://www.instagram.com/alifamartia) 
 ### [My LinkedIn](https://www.linkedin.com/in/alif-amartia) 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| SENIN | SELASA | RABU | KAMIS | JUMAT |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| ENERGI @G3 | Title |
+| Tes | Text |
 
 <!--
 **alifamartia/alifamartia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
