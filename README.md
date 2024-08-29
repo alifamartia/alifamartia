@@ -1,8 +1,14 @@
-# **MY REPOSITORY**
+# **alifamartia's REPOSITORY**
 ## Latihan edit repository
-### - 😄 Pronouns: ...
-### - ⚡ Fun fact: ...
+### Nama : *Al*f Am*art*a**
+### Umur : 19
+### Asal : ~~Purwokerto, Jawa Tengah~~*~~
+### Jurusan : S1 Geofisika
+### Semester : 3
+### Minat : dan Bakat
+### - ⚡ Fun fact: kantung mata gabisa
 ### - 🔭 I’m currently working on: ...
+### [IG](https://www.instagram/alifamartia.com)
 
 <!--
 **alifamartia/alifamartia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
