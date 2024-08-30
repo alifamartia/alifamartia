@@ -20,6 +20,9 @@
 | METKOM @102 | MATFIS @101 | KWN @GDG B | ELMAG @102 | GEOSTRUK @102 |
 | KOSONG | MAG @213 | KWN @GDG B | ELMAG @102 | GEOSTRUK @102 |
 
+- [x] Evaluasi Hari Ini
+- [x] Edit profile diri
+- [ ] Eksperimen dengan fungsi fungsi Git
 <!--
 **alifamartia/alifamartia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
