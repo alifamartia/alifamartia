@@ -6,7 +6,7 @@
 ### Jurusan : S1 Geofisika
 ### Semester : 3
 ### Minat : dan Bakat
-### - ⚡ Fun fact: kantung mata gabisa
+### - ⚡ Fun fact: kantung mata gabisa hilang
 ### - 🔭 I’m currently working on Assignments
 ### - 🌱 I’m currently learning Python
 ### - 🤔 I’m looking for help with learning Python
