@@ -6,5 +6,3 @@
 ![Screenshot 2024-08-30 192729](https://github.com/user-attachments/assets/054f8804-5645-4d66-9a75-54b43e688ab7)
 ![Screenshot 2024-08-30 192828](https://github.com/user-attachments/assets/84c819af-15b7-4d34-ae5d-bf812af12e29)
 
-### tes perubahan
-### tes perubahan 2
