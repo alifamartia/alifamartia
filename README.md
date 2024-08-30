@@ -11,7 +11,7 @@
 ### - 🌱 I’m currently learning Python
 ### - 🤔 I’m looking for help with learning Python
 ### - 💬 Ask me about Game of Thrones
-### - 📫 How to reach me: VVV
+### - 📫 How to reach me: vVv
 ### [My Instagram](https://www.instagram.com/alifamartia) 
 ### [My LinkedIn](https://www.linkedin.com/in/alif-amartia) 
 | SENIN | SELASA | RABU | KAMIS | JUMAT |
@@ -19,6 +19,7 @@
 | ENERGI @G3 | FISBAT @G3 | PERPETAAN @102 | MATFIS @101 | MAG @102 |
 | METKOM @102 | MATFIS @101 | KWN @GDG B | ELMAG @102 | GEOSTRUK @102 |
 |   | MAG @213 |   |   |   |
+
 
 - [x] Evaluasi Hari Ini
 - [x] Edit profile diri
