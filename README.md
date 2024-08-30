@@ -18,22 +18,19 @@
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | ENERGI @G3 | FISBAT @G3 | PERPETAAN @102 | MATFIS @101 | MAG @102 |
 | METKOM @102 | MATFIS @101 | KWN @GDG B | ELMAG @102 | GEOSTRUK @102 |
-| KOSONG | MAG @213 | KWN @GDG B | ELMAG @102 | GEOSTRUK @102 |
+|   | MAG @213 |   |   |   |
 
 - [x] Evaluasi Hari Ini
 - [x] Edit profile diri
-- [ ] Eksperimen dengan fungsi fungsi Git
+- [ ] Eksperimen dengan fitur fitur GitHub
+
 <!--
 **alifamartia/alifamartia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
 - 👯 I’m looking to collaborate on ...
-
-
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
